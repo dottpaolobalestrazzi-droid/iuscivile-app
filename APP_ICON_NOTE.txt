@@ -1,0 +1,1 @@
+Usa AppIcon-1024.png (in ios/) come base; in Xcode 15 puoi generare il set da un 1024x1024.
